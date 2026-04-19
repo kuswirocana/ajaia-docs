@@ -6,7 +6,7 @@
 
 ## Live Deployment
 
-**URL:** [TO BE ADDED AFTER DEPLOY]
+**URL:** https://koes.me/playground/ajaia
 
 **Test Accounts (no login required — use the user switcher in the header):**
 | Name | Email |
@@ -18,7 +18,7 @@
 
 ## Walkthrough Video
 
-**URL:** [TO BE ADDED AFTER RECORDING]
+**URL:** https://www.loom.com/share/7873e38fb2154e54bde6bc58fd7bd17f
 
 ---
 
