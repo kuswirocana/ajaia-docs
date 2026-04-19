@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 
+export const dynamic = 'force-dynamic'
+
 export async function POST(req: NextRequest, { params }: { params: { id: string } }) {
   const ownerEmail = req.headers.get('x-user-email')
   if (!ownerEmail) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
